@@ -16,8 +16,12 @@
 
 ### Axios
 
+[Axios on NPM](https://www.npmjs.com/package/axios)
+
 ![Node Module Axios](images/axios.png "Axios Node Module")
 
 ### Isomorphic Fetch
+
+[Isomorphic Fetch](https://www.npmjs.com/package/isomorphic-fetch)
 
 ![NPM package to use Fetch with Node](images/iso-fetch.png "NPM package to use Fetch with Node")
