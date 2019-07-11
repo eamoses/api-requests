@@ -4,7 +4,7 @@
 
 ### XMLHttp
 
-![XMLHttp Request to the DOM](https://github.com/eamoses/ "XMLHttp Request to the DOM")
+![XMLHttp Request to the DOM](images/xmlhttp.png "XMLHttp Request to the DOM")
 
 ### Ajax using jQuery
 
