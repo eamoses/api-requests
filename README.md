@@ -8,11 +8,11 @@
 
 ### Ajax using jQuery
 
-![Ajax request using jQuery](images/ajax.png"Ajax request using jQuery on the DOM")
+![Ajax request using jQuery](images/ajax.png "Ajax request using jQuery on the DOM")
 
 ### Fetch on the DOM
 
-![Example of Fetch on the DOM](images/fetch.png"Using Fetch request for the DOM")
+![Example of Fetch on the DOM](images/fetch.png "Using Fetch request for the DOM")
 
 ### Axios
 
